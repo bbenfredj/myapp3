@@ -1,6 +1,6 @@
 package org.bbf;
 /*
- * comment *****
+ * comment ***#####**
  */
 
 public class Test {
