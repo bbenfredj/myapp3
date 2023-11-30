@@ -1,6 +1,7 @@
 package org.bbf;
 /*
  * comment ***#####---------**
+ * bbfrej comments
  */
 
 public class Test {
